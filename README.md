@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mash3-gt
-- 🌱 I’m currently learning datascience.
+- 🌱 I’m currently learning web front, edge device & cloud service.
 
 <!---
 mash3-gt/mash3-gt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
